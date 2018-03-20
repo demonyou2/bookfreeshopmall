@@ -2,6 +2,7 @@
 [demo](https://demonyou2.github.io/bookfreeshopmall/view/index.html)
 
 该项目是用Vue全家桶搭建的，同时使用了vux的框架。
+由于使用了在线的阿里巴巴图标库，和github有冲突，故该预览模式下，不能显示出图标。
 
 > A Vue.js project
 
