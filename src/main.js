@@ -4,6 +4,7 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import {ToastPlugin} from 'vux'
+import './assets/iconfont.css'
 Vue.config.productionTip = false
 Vue.use(ToastPlugin,{time:5000})
 
