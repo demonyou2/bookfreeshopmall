@@ -1,6 +1,8 @@
 # freebookmall
 [demo](https://demonyou2.github.io/bookfreeshopmall/view/index.html)
 
+该项目是用Vue全家桶搭建的，同时使用了vux的框架。
+
 > A Vue.js project
 
 ## Build Setup
