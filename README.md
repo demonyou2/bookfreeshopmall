@@ -1,5 +1,5 @@
 # freebookmall
-[demo]((https://demonyou2.github.io/bookfreeshopmall/view/index.html))
+[demo](https://demonyou2.github.io/bookfreeshopmall/view/index.html)
 
 > A Vue.js project
 
